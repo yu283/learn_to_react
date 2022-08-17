@@ -1,0 +1,9 @@
+a.active {
+	font-size: 30px;
+	color: red;
+}
+
+a.red {
+	font-size: 50px;
+	color: burlywood;
+}

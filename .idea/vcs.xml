@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12_learn_router" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/13_learn_hooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_learn_scaffold" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_hello_react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5_react_style" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/7_learn_axios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/8_transition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9_learn_redux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/源码/react" vcs="Git" />
+  </component>
+</project>
